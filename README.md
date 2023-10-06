@@ -6,4 +6,5 @@ Professor: Alex Rodriguex
 Tutor: Ilaria Vascotto
 
 * [Introduction to Pandas](Notebooks/Lab0a-IntrotoPandas.ipynb) and [Data Preprocessing](Notebooks/Lab0b-DataPreprocessing.ipynb)
-* [Lab 1](Lab1.pdf): Data Generation and Visualization
+* [Lab 1](Lab1.pdf): Data Generation and Visualization ([sol](Notebooks/Lab1-DataGeneration.ipynb))
+* [Lab 2](Lab2.pdf): Principal Component Analysis
