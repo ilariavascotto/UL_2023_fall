@@ -8,6 +8,6 @@ Tutor: Ilaria Vascotto
 * [Introduction to Pandas](Notebooks/Lab0a-IntrotoPandas.ipynb) and [Data Preprocessing](Notebooks/Lab0b-DataPreprocessing.ipynb)
 * [Lab 1](Lab1.pdf): Data Generation and Visualization ([sol](Notebooks/Lab1-DataGeneration.ipynb))
 * [Lab 2](Lab2.pdf): Principal Component Analysis ([sol](Notebooks/Lab2-PCA.ipynb))
-* [Lab 3](Lab3.pdf): Isomap ([sol](Notebooks/Lab3-Isomap.ipynb))
+* [Lab 3](Lab3.pdf): Isomap ([sol](Notebooks/Lab3-Isomap.ipynb) - [class discussion notes](Notes%20-%20Isomap.pdf))
 * [Lab 4](Lab4.pdf): Kernel PCA ([sol](Notebooks/Lab4-KernelPCA.ipynb))
 * [Lab 5](Lab5.pdf): Recap on Dimensionality Reduction Techniques ([autoencoder](Notebooks/Lab5a-Autoencoder.ipynb))
