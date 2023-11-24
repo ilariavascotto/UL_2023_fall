@@ -12,4 +12,9 @@ Tutor: Ilaria Vascotto
 * [Lab 4](Lab4.pdf): Kernel PCA ([sol](Notebooks/Lab4-KernelPCA.ipynb))
 * [Lab 5](Lab5.pdf): Recap on Dimensionality Reduction Techniques ([sol](Notebooks/Lab5-DimensionalityReduction.ipynb) - [autoencoder notebook](Notebooks/Lab5a-Autoencoder.ipynb))
 * [Lab 6](Lab6.pdf): Intrinsic Dimension and Density Estimation ([sol](Notebooks/Lab6-IDandDensityEstimation.ipynb))
-* [Lab 7](Lab7.pdf): $k$-means
+* [Lab 7](Lab7.pdf): $k$-means ([sol](Notebooks/Lab7-kMeans.ipynb))
+* [Lab 8](Lab8.pdf): $k$-medoids and $c$-means
+
+Schedule for the following labs:
+- Lab 9: Friday, December 1st (11.00-13.00)
+- Lab 10 (Final lab): Tuesday, December 5th (9.00-11.00)
