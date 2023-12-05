@@ -14,7 +14,5 @@ Tutor: Ilaria Vascotto
 * [Lab 6](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Lab6.pdf): Intrinsic Dimension and Density Estimation ([sol](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Notebooks/Lab6-IDandDensityEstimation.ipynb))
 * [Lab 7](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Lab7.pdf): $k$-means ([sol](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Notebooks/Lab7-kMeans.ipynb))
 * [Lab 8](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Lab8.pdf): $k$-medoids and $c$-means ([sol](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Notebooks/Lab8-kMedoids&cMeans.ipynb.ipynb))
-* [Lab 9](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Lab9.pdf): Hierarchical and Spectral Clustering
-
-Schedule:
-- Lab 10 (Final lab): Tuesday, December 5th (9.00-11.00)
+* [Lab 9](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Lab9.pdf): Hierarchical and Spectral Clustering ([sol](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Notebooks/Lab9-HierarchicalandSpectral.ipynb.ipynb))
+* [Lab 10](https://github.com/ilariavascotto/UL_2023_fall/blob/main/Lab10.pdf): Final Lab
